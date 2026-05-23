@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pkl
+*.model
+*.zip
+cleaned_airline_dataset/
+venv/
+.env
